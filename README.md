@@ -1,5 +1,5 @@
 # DungeonsAndDragons
-CPSC1519 - Final project
+CPSC1519 - Final project - *Completed on August 11, 2017*
 ## Description
 This is my 3rd assignment for the iOS Development course I took at the Northern Alberta Institue of Technology (NAIT).
 This is a simple application for creating a character for the game "Dungeons and Dragons". Additionally, the user is able
