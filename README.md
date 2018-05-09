@@ -1,7 +1,7 @@
 # DungeonsAndDragons
 CPSC1519 - Final project - *Completed on August 11, 2017*
 ## Description
-This is my 3rd assignment for the iOS Development course I took at the Northern Alberta Institue of Technology (NAIT).
+This is my final project for the iOS Development course I took at the Northern Alberta Institue of Technology (NAIT).
 This is a simple application for creating a character for the game "Dungeons and Dragons". Additionally, the user is able
 to view information on the different types of Races available by navigating to the Races tab in the Tab Bar.
 The application was coded using Swift 3.
